@@ -1,0 +1,13 @@
+A:
+size=100
+n_feat=19
+n_parents=50
+mutation_rate=0.10
+n_gen=50
+
+B:
+size=76
+n_feat=19
+n_parents=38
+mutation_rate=0.05
+n_gen=100
